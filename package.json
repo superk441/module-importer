@@ -1,0 +1,22 @@
+{
+  "name": "@netrabbit/module-importer",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/superk441/module-importer.git"
+  },
+  "author": "Colin Asadourian <designmaster45@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/superk441/module-importer/issues"
+  },
+  "homepage": "https://github.com/superk441/module-importer#readme"
+}
